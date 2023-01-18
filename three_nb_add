@@ -1,0 +1,22 @@
+ALGORITHM three_nb_add
+var 
+     sentence  : string ;
+     sentence == word1 + word2 + word3 ... : string
+     sum := string :=0
+     char : "a","e","y","u","i","o" 
+     cont  := char:=0
+     number_of_caracter : integer;
+     number_of_word : integer;
+     number_of_voyelle : integer;
+BEGIN
+     write(sentence)
+     read(sentence)
+     number_of_caracter := length(sentence)
+     write(number_of_caracter)
+     number_of_word := sum
+     sum := word1 + word2 + word3
+     write(number_of_word)
+     number_of_voyelle = count (voyelle)
+     write(number_of_voyelle)
+     count := a + e + y + u + i + o
+     END
